@@ -1,0 +1,3 @@
+﻿type,name,category,description,price,barcode,image,available,offer
+product,مثال منتج - احذف هذا الصف,طعام القطط,اكتب وصف المنتج هنا,,0000000000000,,نعم,لا
+service,مثال خدمة - احذف هذا الصف,الخدمات البيطرية,اكتب وصف الخدمة هنا,,,,نعم,لا
